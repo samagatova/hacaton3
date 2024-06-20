@@ -1,6 +1,5 @@
 import React from "react";
 import "./Cooperation.css";
-import d from "./assets/1708059741668.jpg";
 
 const Сooperation = () => {
   return (
